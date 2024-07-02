@@ -2,7 +2,7 @@
 
 A fun and engaging memory game built with React. Test your memory skills by matching pairs of blocks with the same icons. The game includes a timer and keeps track of your attempts.
 
-Start Playing: [here](reactjs-vite-memorygame.netlify.app)
+Start Playing:  [here](https://reactjs-vite-memorygame.netlify.app/)
 
 ## Table of Contents
 
