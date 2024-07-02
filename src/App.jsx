@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import MemoryGame from './components/MemoryGame';
 import correct from './assets/correct.mp3'
-import wrong from './assets/wrong.mp3'
+import wrong from './assets/wrong.wav'
 import './App.css';
 
 function App() {
