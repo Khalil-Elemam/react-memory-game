@@ -1,0 +1,6 @@
+export {default as Block} from './Block'
+export {default as Board} from './Board'
+export {default as Winning} from './Winning'
+export {default as Result} from './Result'
+export {default as Header} from './Header'
+export {default as MemoryGame} from './MemoryGame'
